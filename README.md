@@ -13,6 +13,10 @@ webvtt thumbnail generator made using python
 It will create a `Thumbnail` folder and will create `.vtt` and `.jpg` files according to the filename
 
 # Example
+
+    py run.py nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full.mp4
+
+## Result
 nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full_1.jpg
 ![dolphin](https://cdn.jsdelivr.net/gh/calvinanto/webvtt-thumbail-generator/Example/nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full_1.jpg)
 

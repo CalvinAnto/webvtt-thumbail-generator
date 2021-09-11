@@ -14,7 +14,7 @@ It will create a `Thumbnail` folder and will create `.vtt` and `.jpg` files acco
 
 # Example
 nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full_1.jpg
-![dolphin](https://goindex.audioshark.workers.dev/0:/nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full_1.jpg)
+![dolphin](https://cdn.jsdelivr.net/gh/calvinanto/webvtt-thumbail-generator/Example/nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full_1.jpg)
 
 <details>
 <summary>nature-underwater-dolphin-animal-aquarium-zoo-blue-104839-full.vtt</summary>
